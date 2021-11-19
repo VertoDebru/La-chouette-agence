@@ -27,6 +27,15 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.quote {
+    margin-bottom: 0;
+    border-left: 5px solid #f3976c;
+    font-style: italic;
+}
+.quote a {
+    color: #F3976C !important;
+}
+
 .bloc {
     width: 100%;
     clear: both;
