@@ -686,7 +686,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1em; /* Minimum size for Accessibility (11px is too low) */
 }
 
 .tight-width-whitespace {
