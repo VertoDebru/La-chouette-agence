@@ -12,8 +12,8 @@ button {
     transition: all .3s ease-in-out;
 }
 
-a:hover {
-    text-decoration: none;
+a {
+    text-decoration: underline;
     cursor: pointer;
 }
 
@@ -32,7 +32,8 @@ a:hover {
     font-style: italic;
 }
 .quote a {
-    color: #F3976C !important;
+    color: #000000 !important;
+    text-decoration: underline;
 }
 
 .bloc {
